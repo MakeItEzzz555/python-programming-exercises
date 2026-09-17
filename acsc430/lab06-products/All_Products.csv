@@ -1,0 +1,7 @@
+﻿SerialNumber,Product_Type,Title,"Manufacturer/Author",Year Published,regularPrice,Discount,Size,SmartTv
+1000,Electronics,Blender,Braun,,40.00,0.1,,
+1001,Electronics,Toaster,Moulinex,,53.99,0.15,,
+1002,TV,"Sony 43"" Smart LED Full HD KDL-43WF665",Sony,,423.99,0.2,43,TRUE
+1003,TV,LG OLED55BX3LB 4K UHD OLED Smart,LG,,1199.99,0.25,55,FALSE
+1004,Book,Seat 7a,Sebastian Fitzek,2001,25.95,0.15,,
+1005,Book,Apropos of Nothing,Woody Allen,2002,14.41,0.05,,
