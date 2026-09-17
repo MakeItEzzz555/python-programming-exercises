@@ -1,5 +1,7 @@
 # Python Programming Exercises
 
+> The Frederick coursework subset is consolidated into [MakeItEzzz555/frederick-university-coursework](https://github.com/MakeItEzzz555/frederick-university-coursework). This repository remains active because the independent grid-pathfinding utility is outside the Frederick archive. Historical source is retained here.
+
 Independent Python exercises covering arithmetic, algorithms, product classes, CSV persistence and Turtle graphics. The `acsc430` sequence is associated with Frederick University coursework from nearby course material; some loose-file module associations are inferred. Grid pathfinding is a separate utility and contains no Arduino firmware or serial communication.
 
 ## Contents
